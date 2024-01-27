@@ -170,6 +170,9 @@
         </main>
 
         <form class="msger-inputarea">
+            <select name="context" id="context">
+                <option value="none">Select an Context</option>
+            </select>
             <input type="text" class="msger-input" placeholder="Enter your message...">
             <button type="submit" class="msger-send-btn">Send</button>
         </form>
