@@ -10,8 +10,8 @@
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "custom-widget",
-            "url": "https://dmeraj.github.io/integrating-chatGPT3-in-SAC/main.js",
+            "tag": "com-delaware-sac-chatgptwidget-main",
+            "url": "https://github.com/pbritoruiz/SACCustomWidget/blob/main/main.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
